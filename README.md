@@ -1,12 +1,13 @@
-# Tarea 4 - MongoDB (Consultas de ejemplo)
+# Tarea 4 - Almacenamiento y consultas de datos en Big Data
 
-**Estudiante:** Ronal Jaison Márquez Mora  
+**Estudiantes:** Ronal Jaison Márquez Mora - Yimer Alfoso Varón Pacheco - Yeison David Fernandez Sabi
 **Curso:** Big Data  
-**Actividad:** Tarea 4 — Almacenamiento y consultas de Datos en Big Data  
+**Actividad:** Tarea 4 — Almacenamiento y consultas de Datos en Big Data
+**Actividad realizada en conjunto con dos integrantes más, donde se realizó el total y correcto análisis del dataset seleccionado para dicha actividad,
+con el objetivo de realzar las respectivas consultas básicas, inserción, selección, actualización y eliminación de documentos. Además de las consultas de agregación para calcular estadísticas.
 
 
 ---
-
 ## 1. ¿Qué es este proyecto?
 Este repositorio contiene el código de las consultas realizadas en MongoDB para la actividad de análisis de factores de rendimiento estudiantil (dataset de Kaggle). El objetivo es practicar operaciones CRUD, filtros y agregaciones para extraer estadísticas del conjunto de datos. Esto con el fin de aplicar distintas técnicas de análisis y visualización a grandes conjuntos de datos para obtener información útil.
 
@@ -44,11 +45,10 @@ use Biblioteca
 - Si al usar operadores numéricos no obtienes resultados, verifica que el campo esté guardado como número y no como texto.  
 - Reemplaza `ObjectId("ID_EJEMPLO")` en las consultas por ids reales si las usas para update/delete.
 
-## 6. Autor y grupo
-- Ronal Jaison Márquez Mora — Grupo: [202016911_60]
+## 6. Autores y grupo
+- Ronal Jaison Márquez Mora - Yimer Alfonso Varón Pacheco - Yeison David Fernandez Sabi — Grupo: [202016911_60]
 
 ---
-
 ## 7. Cómo subir al repositorio (pasos rápidos)
 1. En GitHub crea un nuevo repo (ej. `tarea4-mongodb`).  
 2. Sube `consultas_mongodb.js` y `README.md` (Add file → Upload files).  
@@ -56,7 +56,6 @@ use Biblioteca
 4. Pega la URL en la sección "Enlace al repositorio de código" de tu informe.
 
 ---
-
 ### Archivo de consultas (local)
 El archivo con las consultas se generó en este entorno en la ruta:
 
